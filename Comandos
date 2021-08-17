@@ -34,6 +34,9 @@ Podemos ver con cual usuario esta conectado
 exit
 Con este comando podemos salir.
 
+hostname
+Con este comando puedes ver el nombre del equipo.
+
 
 
 sudo pacman -Syuu
