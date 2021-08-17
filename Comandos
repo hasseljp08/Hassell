@@ -52,6 +52,9 @@ Con este podemos ver en la terminal la informacion basica del hardware y softwar
 cd 
 Se utiliza para poder cambiar de directorio
 
+ps
+Visualiza el estado de un proceso.
+
 cat
 Comando muy practico que permite crear, fusionar o imprimir archivos.
 
@@ -84,11 +87,12 @@ Este amigo es un editor de texto minimalista y amigable.
 
 sudo apt update
 sudo apt upgrade
-sudo apt-get install apache2
+sudo apt install apache2
 
 Estos comandos nos ayuda a instalar las ultimas actualizaciones, ademas de obtener el apache2 en este caso, es recomendable hacerlo.
 
-
+docker
+El docker para darle diversas funciones como el crear un contenedor con el create por ejemplo. 
 
 sudo pacman -Syuu
 sudo pacman -S unrar zip unzip p7zip gzip bzip2
