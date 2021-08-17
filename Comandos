@@ -46,6 +46,10 @@ Este comando es usado para montar el sistema de archivos encontrado en un equipo
 neofetch
 Con este podemos ver en la terminal la informacion basica del hardware y software instalado. 
 
+cd 
+Se utiliza para poder cambiar de directorio
+
+
 
 sudo pacman -Syuu
 sudo pacman -S unrar zip unzip p7zip gzip bzip2
