@@ -1,3 +1,41 @@
+COMANDOS SISTEMAS OPERATIVOS
+
+ip addr
+Mostrara todos los adaptadores de red que tengamos.
+
+ping 
+Es para probar la conectividad con otros equipos.
+
+sudo 
+Con este comando podemos hacer las tareas con los usos del administrador. 
+
+sudo apt install openssh-server
+sudo apt install nmap
+Para poder instalar cualquier paquete en el Ubuntu y estos son respecto a la red 
+
+grep
+Con este comando se utilza para buscar los archivos de formas mas efectiva con respecto al nombre. 
+
+ps -aux | grep firefox
+Con este comando podemos visualizar el estado de un proceso. 
+
+kill
+Con este comando podemos matar un proceso. 
+
+su root o sudo su
+Podemos usar la terminal como usuario raiz o administrador
+
+sudo passwd root
+Con este comando podemos cambiar la contraseña
+
+whoami
+Podemos ver con cual usuario esta conectado
+
+exit
+Con este comando podemos salir.
+
+
+
 sudo pacman -Syuu
 sudo pacman -S unrar zip unzip p7zip gzip bzip2
 sudo pacman -S yay
