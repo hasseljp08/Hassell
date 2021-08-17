@@ -11,7 +11,10 @@ Con este comando podemos hacer las tareas con los usos del administrador.
 
 sudo apt install openssh-server
 sudo apt install nmap
-Para poder instalar cualquier paquete en el Ubuntu y estos son respecto a la red 
+Para poder instalar cualquier paquete en el Ubuntu y estos son respecto a la red
+
+sudo apt-get install 
+Igual podemos instalar y obtener un paquete que queramos. 
 
 grep
 Con este comando se utilza para buscar los archivos de formas mas efectiva con respecto al nombre. 
@@ -57,6 +60,15 @@ Muestra informacion sobre la memoria libre y usada del sistema.
 
 swapon
 Con este creamos un espacio de intercambio de memoria virtual. Este es de comando de intercambio abierto y existe el comando de intercambio cerrado, el swapoff.
+
+df
+Este comando muestra el espacio en disco utilizado por el sistema de ficheros. 
+
+ls
+Este nos permite listar el contenido de un directorio.
+
+lsblk
+Este comando es un poco dificil de comprender, pero basicamente se usa para enumerar información sobre todos los dispositivos de bloque disponibles
 
 
 
