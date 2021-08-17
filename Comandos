@@ -70,6 +70,14 @@ Este nos permite listar el contenido de un directorio.
 lsblk
 Este comando es un poco dificil de comprender, pero basicamente se usa para enumerar información sobre todos los dispositivos de bloque disponibles
 
+bash
+Es mas bien un intérprete de comandos que crea y ejecuta, una por una, las instrucciones introducidas por el usuario o contenidas en un script y devuelve los resultados. Muy utilizado en Linux.
+
+echo
+Es un commando para la impresión de un texto en pantalla. 
+
+chmod
+Con este comando puedes cambiar los permisos de acceso de un fichero o directorio.
 
 
 
