@@ -49,6 +49,16 @@ Con este podemos ver en la terminal la informacion basica del hardware y softwar
 cd 
 Se utiliza para poder cambiar de directorio
 
+cat
+Comando muy practico que permite crear, fusionar o imprimir archivos.
+
+free
+Muestra informacion sobre la memoria libre y usada del sistema.
+
+swapon
+Con este creamos un espacio de intercambio de memoria virtual. Este es de comando de intercambio abierto y existe el comando de intercambio cerrado, el swapoff.
+
+
 
 
 sudo pacman -Syuu
