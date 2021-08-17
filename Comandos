@@ -100,7 +100,7 @@ Vemos la informacion del mismo
 sudo docker images 
 Vemos las imagenes que tenemos.
 
-
+Cualquier comando con el --help al final funciona para poder escoger alguno comando derivado para completar con tu asignacion. 
 
 
 sudo pacman -Syuu
