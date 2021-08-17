@@ -94,6 +94,13 @@ Estos comandos nos ayuda a instalar las ultimas actualizaciones, ademas de obten
 docker
 El docker para darle diversas funciones como el crear un contenedor con el create por ejemplo. Existen distintas derivadas del mismo y funciones en cada uno. Ejemplo: Docker network ls vemos el listado
 
+sudo docker info
+Vemos la informacion del mismo 
+
+sudo docker images 
+Vemos las imagenes que tenemos.
+
+
 
 
 sudo pacman -Syuu
