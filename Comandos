@@ -37,6 +37,14 @@ Con este comando podemos salir.
 hostname
 Con este comando puedes ver el nombre del equipo.
 
+mkdir 
+Este comando es usado para crear un nuevo directorio
+
+mount 
+Este comando es usado para montar el sistema de archivos encontrado en un equipo dentro en una estructura de arbol grande. 
+
+ 
+
 
 
 sudo pacman -Syuu
