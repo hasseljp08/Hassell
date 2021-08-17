@@ -79,6 +79,15 @@ Es un commando para la impresión de un texto en pantalla.
 chmod
 Con este comando puedes cambiar los permisos de acceso de un fichero o directorio.
 
+nano
+Este amigo es un editor de texto minimalista y amigable. 
+
+sudo apt update
+sudo apt upgrade
+sudo apt-get install apache2
+
+Estos comandos nos ayuda a instalar las ultimas actualizaciones, ademas de obtener el apache2 en este caso, es recomendable hacerlo.
+
 
 
 sudo pacman -Syuu
