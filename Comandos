@@ -1,4 +1,4 @@
-COMANDOS SISTEMAS OPERATIVOS.md 
+<h1> COMANDOS SISTEMAS OPERATIVOS </h1>
 
 ip addr
 Mostrara todos los adaptadores de red que tengamos.
@@ -112,3 +112,6 @@ uname -a
 sudo useradd -m nombredeusuario -G wheel -p passworddelusuario
 
 ESTOS COMANDOS FUERON UTILIZADOS EN EL LAB 04 EN MANJARO
+
+![GitHub Logo](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2016/05/168754-mejores-comandos-gnu/linux-que-deberias-conocer.jpg?itok=gxOT5hBT)
+Format: ![Alt Text](url)
