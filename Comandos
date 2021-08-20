@@ -1,6 +1,6 @@
 <h1> COMANDOS SISTEMAS OPERATIVOS </h1>
 
-ip addr
+<h2>ip addr</h2>
 Mostrara todos los adaptadores de red que tengamos.
 
 ping 
