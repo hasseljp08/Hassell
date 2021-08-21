@@ -100,6 +100,24 @@ Vemos la informacion del mismo
 sudo docker images 
 Vemos las imagenes que tenemos.
 
+sudo apt install samba
+Con esto puedes instalar el servicio de comparticion de archivos y poder ver las carpetas mediante la red local de un equipo con windows por ejemplo.
+
+wget https://download.nextcloud.com/server/releases/nextcloud-21.0.1.zip
+Con este instalamos el nextcloud server
+
+sudo apt install unzip
+Con este instalamos los paquetes de descommprimir
+
+sudo mysql
+Con este puedes ingresar al mysql
+
+sudo apt install mysql-server
+Con esto lo instalas para poder usarlo 
+
+sudo systemctl reload apache2
+Cuando haces un cambio de modulos en la pagina web y asi poder usarlos con la recarga.
+
 Cualquier comando con el --help al final funciona para poder escoger alguno comando derivado para completar con tu asignacion. 
 
 
@@ -111,7 +129,7 @@ yay -S google-chrome
 uname -a
 sudo useradd -m nombredeusuario -G wheel -p passworddelusuario
 
-ESTOS COMANDOS FUERON UTILIZADOS EN EL LAB 04 EN MANJARO
+<h1> ESTOS COMANDOS FUERON UTILIZADOS EN EL LAB 04 EN MANJARO </h1>
 
 ![GitHub Logo](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2016/05/168754-mejores-comandos-gnu/linux-que-deberias-conocer.jpg?itok=gxOT5hBT)
 Format: ![Alt Text](url)
